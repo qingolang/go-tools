@@ -5,7 +5,7 @@
 
 邮箱：**ggolang@163.com**
 
-## go-mysql-table-to-markdown 导出表结构并生成Markdown文件
+## 20211028 go-mysql-table-to-markdown 导出表结构并生成Markdown文件
 
   1. git clone https://github.com/qingolang/go-tools.git
   2. cd go-tools
